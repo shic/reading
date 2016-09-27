@@ -1,8 +1,8 @@
 # Site settings
-title: My Code Path
+title: My Reading Club
 header-img: img/home-bg.jpg
 email: itshilei@gmail.com
-description: "Talk is cheap, show me your code!"
+description: "Read more, be smarter!"
 baseurl: "/blog"
 twitter_username: itshilei
 github_username:  shic
