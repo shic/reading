@@ -5,7 +5,6 @@ subtitle:   "凯利 麦格尼格尔"
 date:       2016-09-27 12:00:00
 author:     "Shi"
 header-img: "img/post-bg-01.jpg"
-categories: 自控力
 ---
 
 
